@@ -8,7 +8,7 @@ class teste
 
     public override int GetHashCode()
     {
-        int v = base.GetHashCode();
+        int v = base.GetHashCode();;
 
     }
 
