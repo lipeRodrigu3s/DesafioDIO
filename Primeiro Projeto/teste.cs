@@ -3,19 +3,20 @@ using System;
 namespace teste;
 class teste
 {
-    public override bool Equals(object obj)
-    {
-        return base.Equals(obj);
+   
     }
 
-    public override int GetHashCode(int v)
+    public override int GetHashCode()
     {
-        int v = base.GetHashCode(v);
-        return v;
+        int v = base.GetHashCode();
+
     }
 
     public override string ToString()
     {
+        var a = "Hello";
+        var b = "world";
+        
         return base.ToString();
     }
-}
+
