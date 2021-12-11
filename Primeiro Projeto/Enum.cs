@@ -1,0 +1,10 @@
+namespace Enum
+{
+    enum Pessoa
+    {   
+        
+
+
+    }
+        
+}
