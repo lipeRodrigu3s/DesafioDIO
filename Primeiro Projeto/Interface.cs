@@ -3,13 +3,17 @@ namespace Interface
     interface IAnimal
     {
         void nome (String nome);
+
         void Dono(String nomeDono);
-        Void Especie(String Especie);
+
+        void Especie(String Especie);
     }
-          class Animal : IAnimal
+    class Animal : IAnimal
           {
-                public String Nome { get; set; } 
-                public string NomeDono { get; set; } 
+                public String Nome { get; set; }
+
+                public string NomeDono { get; set; }
+
                 public String Especie { get; set; }
 
                 void IAnimal.nome(string Nome)
