@@ -1,6 +1,3 @@
-using System;
-using System text;
-
 namespace Interface
 {
     interface IAnimal
