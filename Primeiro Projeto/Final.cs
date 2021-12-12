@@ -6,11 +6,12 @@ using Enum;
 
 namespace CSharp
 {
+
     class total
     {
         static void main(string[] args)
         {
-
+   
             var Amigo1 = (Pessoas)0;
             var amigos2 = Pessoas.Hugo;
             var amigos2 = (Pessoas)4;
@@ -35,7 +36,8 @@ namespace CSharp
 
             var Classe = new Classe();
             var Classe2 = new Segundo.classe();
-        
+
+                
         }
     }
 }
