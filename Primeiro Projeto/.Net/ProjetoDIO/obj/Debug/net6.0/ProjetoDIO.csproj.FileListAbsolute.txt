@@ -1,0 +1,15 @@
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\bin\Debug\net6.0\ProjetoDIO.exe
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\bin\Debug\net6.0\ProjetoDIO.deps.json
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\bin\Debug\net6.0\ProjetoDIO.runtimeconfig.json
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\bin\Debug\net6.0\ProjetoDIO.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\bin\Debug\net6.0\ref\ProjetoDIO.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\bin\Debug\net6.0\ProjetoDIO.pdb
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.csproj.AssemblyReference.cache
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.AssemblyInfoInputs.cache
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.AssemblyInfo.cs
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\obj\Debug\net6.0\ref\ProjetoDIO.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.pdb
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\.Net\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.genruntimeconfig.cache
