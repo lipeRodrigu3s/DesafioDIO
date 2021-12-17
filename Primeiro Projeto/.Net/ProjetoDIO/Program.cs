@@ -10,7 +10,7 @@ namespace ProjetoDio
             
             for (int i = 0; i < NumeroRepeticao; i++)
             
-              console.writeline($"Meus primeiros passos em .Net {i} ");
+              Console.WriteLine($"Meus primeiros passos em .Net {i} ");
             
         }
     }
