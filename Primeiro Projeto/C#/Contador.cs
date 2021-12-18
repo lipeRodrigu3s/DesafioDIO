@@ -7,6 +7,7 @@ namespace contador
         static void contadorif(string[] args)
         {
             Console.ReadLine();
+            
             if (args.Length == 0)
             {
                 Console.WriteLine("Nenhum argumento");
