@@ -4,6 +4,8 @@ namespace Revisao
 {
     class Program
     {
+        private static int indiceAluno;
+
         static void Main(string[] args)
         {
             Aluno[] alunos = new Aluno[5];
@@ -20,7 +22,7 @@ namespace Revisao
 
                         Console.WriteLine("Informe a nota do aluno:");
                         
-                        if (decimal.Parse(Console.ReadLine(),out decimal nota))
+                        if (decimal.TryParse(Console.ReadLine(),out decimal nota))
                         {
                             aluno.nota = nota;
                         }
@@ -30,10 +32,14 @@ namespace Revisao
                         }
 
                         alunos[indiceAluno] = aluno;
+                        indiceAluno++;
                         break;
 
                     case "2":
-
+                        foreach(var a in alunos)
+                        {
+                            Console.WriteLine($"ALUNO: {a.nome} - NOTA: {a.nome}"); 
+                        }
                         break;
 
                     case "3":
@@ -43,9 +49,9 @@ namespace Revisao
                     default:
                         throw new ArgumentOutOfRangeException();            
                 }
+                opcaoUsuario = obteropcaoUsuario();
             }
-
-        }
+      }
         private static string obteropcaoUsuario()
         {
             Console.WriteLine("Escolha uma das opções abaixo");
