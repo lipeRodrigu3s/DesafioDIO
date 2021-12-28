@@ -38,12 +38,28 @@ namespace Revisao
                     case "2":
                         foreach(var a in alunos)
                         {
-                            Console.WriteLine($"ALUNO: {a.nome} - NOTA: {a.nome}"); 
+                            if (!string.IsNullOrEmpty(a.nome))
+                            {
+                                Console.WriteLine($"ALUNO: {a.nome} - NOTA: {a.nome}"); 
+                            }
+                            
                         }
                         break;
-
                     case "3":
+                        decimal notaTotal = 0;
+                        var nrAlunos = 0;
 
+                        for (int i = 0; i < alunos.Length; i++)
+                        {
+                            if (!string.IsNullOrEmpty(alunos[i].nome))
+                            {
+                                notaTotal = notaTotal + alunos[i].nota;
+                                nrAlunos++;
+                            }
+                        }
+
+                        var mediaGeral = notaTotal / nrAlunos;
+                        
                         break;
 
                     default:
