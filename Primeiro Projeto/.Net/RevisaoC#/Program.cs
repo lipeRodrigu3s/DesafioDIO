@@ -59,7 +59,7 @@ namespace Revisao
                         }
 
                         var mediaGeral = notaTotal / nrAlunos;
-                        
+                        Console.WriteLine($"MEDIA GERAL: {mediaGeral}");
                         break;
 
                     default:
@@ -68,7 +68,13 @@ namespace Revisao
                 opcaoUsuario = obteropcaoUsuario();
             }
       }
+
         private static string obteropcaoUsuario()
+        {
+            throw new NotImplementedException();
+        }
+
+        private static string obteropcaoUsuario(string? opcaoUsuario)
         {
             Console.WriteLine("Escolha uma das opções abaixo");
             Console.WriteLine("1- Cadastrar novo Aluno");
@@ -77,9 +83,9 @@ namespace Revisao
             Console.WriteLine("4- Sair");
             Console.WriteLine();
 
-            string opcaoUsuario = Console.ReadLine();
+            string? v = Console.ReadLine();
             Console.WriteLine();
-            return opcaoUsuario;
+            return obteropcaoUsuario(v);
             
 
         }
