@@ -15,11 +15,21 @@ namespace Revisao
                 {
                     case "1":
                         Console.WriteLine("informe o nome do aluno:");
-                        Aluno aluno = new Aluno();
+                        var aluno = new Aluno();
                         aluno.nome = Console.ReadLine();
 
                         Console.WriteLine("Informe a nota do aluno:");
-                        aluno.nota = Console.ReadLine();
+                        
+                        if (decimal.Parse(Console.ReadLine(),out decimal nota))
+                        {
+                            aluno.nota = nota;
+                        }
+                        else
+                        {
+                            throw new ArgumentException("valor da nota deve ser decimal");
+                        }
+
+                        alunos[indiceAluno] = aluno;
                         break;
 
                     case "2":
