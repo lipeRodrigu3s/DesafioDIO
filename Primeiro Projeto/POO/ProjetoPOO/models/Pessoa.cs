@@ -10,7 +10,7 @@ namespace ProjetoPOO.models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Meu nome e: {Nome} e tenho {Idade} de idade ");
+            Console.WriteLine($"Meu nome é {Nome} e tenho {Idade} de idade ");
         }
     }
 }
