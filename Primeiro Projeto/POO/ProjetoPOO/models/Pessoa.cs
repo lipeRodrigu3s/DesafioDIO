@@ -1,3 +1,5 @@
+using System;
+
 namespace ProjetoPOO.models
 {
     public class Pessoa
@@ -5,5 +7,10 @@ namespace ProjetoPOO.models
         public string nome { get; set; }
 
         public int idade { get; set; }
+
+        public void apresentar()
+        {
+            Console.WriteLine($"Meu nome e: {nome} e tenho {idade} de idade ");
+        }
     }
 }
