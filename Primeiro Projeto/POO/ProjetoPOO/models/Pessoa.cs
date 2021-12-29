@@ -4,13 +4,13 @@ namespace ProjetoPOO.models
 {
     public class Pessoa
     {
-        public string nome { get; set; }
+        public string Nome { get; set; }
 
-        public int idade { get; set; }
+        public int Idade { get; set; }
 
-        public void apresentar()
+        public void Apresentar()
         {
-            Console.WriteLine($"Meu nome e: {nome} e tenho {idade} de idade ");
+            Console.WriteLine($"Meu nome e: {Nome} e tenho {Idade} de idade ");
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.csproj.AssemblyReference.cache
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.AssemblyInfoInputs.cache
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.AssemblyInfo.cs
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\bin\Debug\net6.0\ProjetoPOO.exe
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\bin\Debug\net6.0\ProjetoPOO.deps.json
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\bin\Debug\net6.0\ProjetoPOO.runtimeconfig.json
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\bin\Debug\net6.0\ProjetoPOO.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\bin\Debug\net6.0\ref\ProjetoPOO.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\bin\Debug\net6.0\ProjetoPOO.pdb
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\obj\Debug\net6.0\ref\ProjetoPOO.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.pdb
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\POO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.genruntimeconfig.cache

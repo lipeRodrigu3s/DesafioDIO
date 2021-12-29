@@ -1,4 +1,5 @@
 ﻿using System;
+using ProjetoPOO.models;
 
 namespace ProjetoPOO
 {
@@ -8,9 +9,9 @@ namespace ProjetoPOO
         {
             Pessoa p1 = new Pessoa();
 
-            p1.nome = "Lipe";
-            p1.idade = 21;
-            p1.apresentar();
+            p1.Nome = "Lipe";
+            p1.Idade = 21;
+            p1.Apresentar();
         }
     }
 }
