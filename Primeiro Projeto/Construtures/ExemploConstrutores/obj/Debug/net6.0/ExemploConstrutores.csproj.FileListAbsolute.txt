@@ -1,0 +1,5 @@
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Construtures\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Construtures\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Construtures\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Construtures\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Construtures\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
