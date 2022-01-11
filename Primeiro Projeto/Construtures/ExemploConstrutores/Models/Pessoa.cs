@@ -18,7 +18,7 @@ namespace ExemploConstrutores.Models
 
         public void Apresentar()
         {
-            System.Console.WriteLine($"Óla, meu nome é {nome} {sobrenome}");
+            System.Console.WriteLine($"Olá, meu nome é {nome} {sobrenome}");
         }
 
     }
