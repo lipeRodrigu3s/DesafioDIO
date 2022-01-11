@@ -15,8 +15,8 @@ namespace ExemploConstrutores
             //System.Console.WriteLine(log2.PropriedadeLog);
 
 
-            Aluno p1 = new Aluno();
-            p1.Apresentar();
+            //Aluno p1 = new Aluno();
+            //p1.Apresentar();
 
 
 
