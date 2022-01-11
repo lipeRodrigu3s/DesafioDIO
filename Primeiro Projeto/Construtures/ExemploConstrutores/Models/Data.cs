@@ -16,8 +16,23 @@ namespace ExemploConstrutores.Models
             if (mês > 0 && mês <= 12)
             {
                 this.mês = mês;
-                this.mêsValido = True;
+                this.mêsValido = true;
             }
+        }
+        public int mês 
+        { 
+            get
+            {
+                return this.Mês;
+            }
+            set
+            {
+                if(Value > 0 && Value <= 12)
+                {
+                    this.mês = Value;
+                    this.mêsValido = true;
+                }
+            } 
         }
 
         public void ApresentarMês()

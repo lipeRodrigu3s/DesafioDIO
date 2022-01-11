@@ -10,6 +10,9 @@ namespace ExemploConstrutores
             Data data = new data();
             data.SetMês(2);
 
+            data.mês = 12;
+            System.Console.WriteLine(data.mês);
+
             data.ApresentarMês();
 
             //log log = log.GetInstance();
