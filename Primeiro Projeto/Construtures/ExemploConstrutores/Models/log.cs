@@ -4,6 +4,7 @@ namespace ExemploConstrutores.Models
     {
         private static log _log;
 
+        public string PropriedadeLog { get; set; }
 
         private log()
         {
