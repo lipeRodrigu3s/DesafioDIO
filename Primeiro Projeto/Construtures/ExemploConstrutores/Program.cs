@@ -10,8 +10,12 @@ namespace ExemploConstrutores
         {
 
             Operacao op = new Operacao(Calculadora.Somar);
+            op.Invoke(10,20);
+            
+            op += Calculadora.Subtrair;
 
 
+            //op(20,50);
             
             //const double pi = 3.14;
            //System.Console.WriteLine(pi);
