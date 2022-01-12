@@ -5,8 +5,12 @@ namespace ExemploConstrutores
 {
     class program
     {
+        public delegate void Operacao(int X, int Y); 
         public void Main(string[] args)
         {
+
+
+
 
             
             //const double pi = 3.14;
