@@ -2,13 +2,13 @@ namespace ExemploConstrutores.Models
 {
     public class Data
     {
-        private int mês;
+        private int Mês;
         private bool mêsValido;
 
 
-        public Getmês()
+        public GetMês()
         {
-            return this.mês;
+            int mês1 = this.Mês;
         }
 
         public void SetMês(int mês)
@@ -27,9 +27,9 @@ namespace ExemploConstrutores.Models
             }
             set
             {
-                if(Value > 0 && Value <= 12)
+                if(value > 0 && value <= 12)
                 {
-                    this.mês = Value;
+                    this.mês = value;
                     this.mêsValido = true;
                 }
             } 
