@@ -2,8 +2,8 @@ namespace ExemploConstrutores.Models
 {
     public class Pessoa
     {
-        private string? nome;
-        private string? sobrenome;
+        private readonly string nome = "Fellipe";
+        private readonly string sobrenome = "Augusto";
 
         public Pessoa()
         {
