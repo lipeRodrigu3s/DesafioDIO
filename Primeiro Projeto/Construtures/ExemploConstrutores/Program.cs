@@ -7,7 +7,7 @@ namespace ExemploConstrutores
     {
         public void Main(string[] args)
         {
-            Data data = new data();
+            Data data = new Data();
             data.SetMês(2);
 
             data.mês = 12;

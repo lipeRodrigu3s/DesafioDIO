@@ -2,7 +2,7 @@ namespace ExemploConstrutores.Models
 {
     public class log
     {
-        private static log _log;
+        private static log? _log;
 
         public string PropriedadeLog { get; set; }
 
