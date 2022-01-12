@@ -9,7 +9,7 @@ namespace ExemploConstrutores
         public void Main(string[] args)
         {
 
-
+            Operacao op = new Operacao(Calculadora.Somar);
 
 
             
