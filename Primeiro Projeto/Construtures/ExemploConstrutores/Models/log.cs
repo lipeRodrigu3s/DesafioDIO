@@ -8,7 +8,7 @@ namespace ExemploConstrutores.Models
 
         private log()
         {
-            
+        
         }
 
         public static log GetInstance()

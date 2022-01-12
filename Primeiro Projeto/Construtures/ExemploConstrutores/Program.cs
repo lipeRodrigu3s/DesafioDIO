@@ -7,13 +7,18 @@ namespace ExemploConstrutores
     {
         public void Main(string[] args)
         {
-            Data data = new Data();
-            data.SetMês(2);
 
-            data.mês = 12;
-            System.Console.WriteLine(data.mês);
+            
+            //const double pi = 3.14;
+           //System.Console.WriteLine(pi);
 
-            data.ApresentarMês();
+            //Data data = new Data();
+            //data.SetMês(2);
+
+            //data.mês = 12;
+            //System.Console.WriteLine(data.mês);
+
+            //data.ApresentarMês();
 
             //log log = log.GetInstance();
 
