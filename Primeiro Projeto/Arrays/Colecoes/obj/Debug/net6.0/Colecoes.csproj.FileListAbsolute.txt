@@ -1,0 +1,15 @@
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\Users\Fellipe\Documents\GitHub\DesafioDIO\Primeiro Projeto\Arrays\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
