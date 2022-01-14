@@ -6,6 +6,7 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {
+            int[] array = new int[5];
 
 
 
@@ -13,7 +14,6 @@ namespace Colecoes
 
 
 
-            
             // int[,]Matrix = new int [3, 2]
             // {
             //     {8, 9},
