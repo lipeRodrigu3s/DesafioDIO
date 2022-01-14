@@ -1,4 +1,5 @@
 ﻿using System;
+using Colecoes.helper;
 
 namespace Colecoes
 {
@@ -6,7 +7,17 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {
-            int[] array = new int[5];
+            OperacoesArray op = new OperacoesArray();
+
+            int[] array = new int[5] {8, 3, 5, 1, 9 };
+            System.Console.WriteLine("Array original: ");
+
+            op.ImprimirArray(array);
+
+            op.OrdenarBubbleSort(array);
+
+            System.Console.WriteLine("Array Ordenado: ");
+            op.ImprimirArray(array);
 
 
 
