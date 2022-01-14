@@ -13,6 +13,13 @@ namespace Colecoes
                 {0, 5}
             };
 
+            for (int i = 0; i < Matrix.GetLength(0); i++)
+            {
+                for (int c = 0; c < Matrix.GetLength(1); c++)
+                {
+                    System.Console.WriteLine(Matrix[i, c]);
+                }
+            }
 
 
 
