@@ -10,16 +10,26 @@ namespace Colecoes
             OperacoesArray op = new OperacoesArray();
 
             int[] array = new int[5] {8, 3, 5, 1, 9 };
-            System.Console.WriteLine("Array original: ");
+            int[] arrayCopia = new int[20];  
 
-            op.ImprimirArray(array);
+
+            
+            //System.Console.WriteLine("Array original: ");
+
+            //op.ImprimirArray(array);
 
             //op.OrdenarBubbleSort(array);
-            op.Ordenar(ref array);
+            //op.Ordenar(ref array);
 
-            System.Console.WriteLine("Array Ordenado: ");
-            op.ImprimirArray(array);
+            //System.Console.WriteLine("Array Ordenado: ");
+            //op.ImprimirArray(array);
 
+            System.Console.WriteLine("Array antes da copia: ");
+            op.ImprimirArray(arrayCopia);
+
+            op.Copiar(ref array, ref arrayCopia);
+            System.Console.WriteLine("Array depois da copia: ");
+            op.ImprimirArray(arrayCopia);
 
             // int[,]Matrix = new int [3, 2]
             // {
