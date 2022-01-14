@@ -26,5 +26,12 @@ namespace Colecoes.helper
                 System.Console.WriteLine(array[i]);
             }
         }
+        public void Ordenar(ref int[] array)
+        {
+            Array.Sort(array);    
+        }
+
+
+
     }
 }

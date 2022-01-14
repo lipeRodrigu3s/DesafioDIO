@@ -14,15 +14,11 @@ namespace Colecoes
 
             op.ImprimirArray(array);
 
-            op.OrdenarBubbleSort(array);
+            //op.OrdenarBubbleSort(array);
+            op.Ordenar(ref array);
 
             System.Console.WriteLine("Array Ordenado: ");
             op.ImprimirArray(array);
-
-
-
-
-
 
 
             // int[,]Matrix = new int [3, 2]
