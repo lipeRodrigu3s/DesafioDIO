@@ -6,24 +6,28 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {
-            int[,]Matrix = new int [3, 2]
-            {
-                {8, 9},
-                {8, 8},
-                {0, 5}
-            };
-
-            for (int i = 0; i < Matrix.GetLength(0); i++)
-            {
-                for (int c = 0; c < Matrix.GetLength(1); c++)
-                {
-                    System.Console.WriteLine(Matrix[i, c]);
-                }
-            }
 
 
 
 
+
+
+
+            
+            // int[,]Matrix = new int [3, 2]
+            // {
+            //     {8, 9},
+            //     {8, 8},
+            //     {0, 5}
+            // };
+
+            // for (int i = 0; i < Matrix.GetLength(0); i++)
+            // {
+            //     for (int c = 0; c < Matrix.GetLength(1); c++)
+            //     {
+            //         System.Console.WriteLine(Matrix[i, c]);
+            //     }
+            // }
 
             // Matrix[0, 0] = 5;
             // Matrix[0, 1] = 6;
