@@ -1,19 +1,24 @@
 ﻿using System;
 using Colecoes.helper;
-
+using System.Collections.Generic;
 namespace Colecoes
 {
     class program
     {
         static void Main(string[] args)
-        {
-            OperacoesArray op = new OperacoesArray();
-
-            int[] array = new int[5] {8, 3, 5, 1, 9 };
-            int[] arrayCopia = new int[20];  
+        {   
 
 
-            
+            // list<string> estados = new list<string>();
+            // estados.Add("PE");
+            // estados.Add("SP");
+            // estados.Add("PA"); 
+
+            // OperacoesArray op = new OperacoesArray();
+
+            // int[] array = new int[5] {8, 3, 5, 1, 9 };
+            // int[] arrayCopia = new int[20];  
+
             //System.Console.WriteLine("Array original: ");
 
             //op.ImprimirArray(array);
@@ -24,12 +29,12 @@ namespace Colecoes
             //System.Console.WriteLine("Array Ordenado: ");
             //op.ImprimirArray(array);
 
-            System.Console.WriteLine("Array antes da copia: ");
-            op.ImprimirArray(arrayCopia);
+            // System.Console.WriteLine("Array antes da copia: ");
+            // op.ImprimirArray(arrayCopia);
 
-            op.Copiar(ref array, ref arrayCopia);
-            System.Console.WriteLine("Array depois da copia: ");
-            op.ImprimirArray(arrayCopia);
+            // op.Copiar(ref array, ref arrayCopia);
+            // System.Console.WriteLine("Array depois da copia: ");
+            // op.ImprimirArray(arrayCopia);
 
             // int[,]Matrix = new int [3, 2]
             // {
