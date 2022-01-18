@@ -1,12 +1,38 @@
 ﻿using System;
 using Colecoes.helper;
-using System.Collections.Generic;
+using System.Linq;
+
 namespace Colecoes
 {
     class program
     {
         static void Main(string[] args)
         {   
+            int[] arrayNumeros = new int[6] {2, 9, 8, 7, 10, 50};
+
+            var minimo = arrayNumeros.Min();
+            var maximo = arrayNumeros.Max();
+            var medio = arrayNumeros.Average();
+
+            System.Console.WriteLine($"Minimo: {minimo}");
+            System.Console.WriteLine($"Maximo {maximo}");
+            System.Console.WriteLine($"Medio: {Medio}");
+
+
+
+
+
+            // var NumerosParesQuery = 
+            //     from num in arrayNumeros
+            //     where num % 2 == 0
+            //     orderby num 
+            //     select num;
+
+            // var NumerosParesMetodo = arrayNumeros.where(x => x % 2 == 0).orderby(x => x).ToList();       
+
+            // System.Console.WriteLine("Numeros pares query:" + string.Join("," , NumerosParesQuery));
+            // System.Console.WriteLine("Numeros pares metodo: " + string.Join(", " ,NumerosParesMetodo));
+
 
 
             // list<string> estados = new list<string>();
