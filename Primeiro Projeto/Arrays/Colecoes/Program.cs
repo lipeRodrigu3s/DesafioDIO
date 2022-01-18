@@ -8,19 +8,19 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {   
-            int[] arrayNumeros = new int[6] {2, 9, 8, 7, 10, 50};
-
-            var minimo = arrayNumeros.Min();
-            var maximo = arrayNumeros.Max();
-            var medio = arrayNumeros.Average();
-
-            System.Console.WriteLine($"Minimo: {minimo}");
-            System.Console.WriteLine($"Maximo {maximo}");
-            System.Console.WriteLine($"Medio: {Medio}");
 
 
 
+            
+            // int[] arrayNumeros = new int[6] {2, 9, 8, 7, 10, 50};
 
+            // var minimo = arrayNumeros.Min();
+            // var maximo = arrayNumeros.Max();
+            // var medio = arrayNumeros.Average();
+
+            // System.Console.WriteLine($"Minimo: {minimo}");
+            // System.Console.WriteLine($"Maximo {maximo}");
+            // System.Console.WriteLine($"Medio: {Medio}");
 
             // var NumerosParesQuery = 
             //     from num in arrayNumeros
