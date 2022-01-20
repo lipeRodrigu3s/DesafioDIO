@@ -6,9 +6,41 @@ namespace APPDIO
     {
         static void Main(string[] args)
         {
-            
+            string ObterOpcaoCliente = ObterOpcaoCliente();
 
-            System.Console.WriteLine("Hello World");
+            while (ObterOpcaoCliente.ToUpper() != "X")
+            {
+                 switch (ObterOpcaoCliente)
+                 {
+                    case "1":
+                        listarCodigo();
+                        break;  
+
+                    case "2":
+                        InserirCodigo();
+                        break;
+
+                    case "3":
+                        AtualizarCodigo();
+                        break;
+
+                    case "4":   
+                        ExcluirCodigo();
+                        break;
+
+                    case "5":
+                        VisualizarCodigo();
+                        break;
+                    case "C":
+                        Console.Clear();
+                        break;
+
+                    default:            
+                        throw new  ArgumentOutOfRangeException();
+                 }
+            }
+
+            
         }   
 
         private static string ObterOpcaoCliente()
