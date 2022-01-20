@@ -38,10 +38,29 @@ namespace APPDIO
                     default:            
                         throw new  ArgumentOutOfRangeException();
                  }
+                 ObterOpcaoCliente = ObterOpcaoCliente();
+            }
+                System.Console.WriteLine("Obrigado por ultilizar nosso App.");
+                Console.Readline();
+        }   
+        private static void listarCodigo()
+        {
+            System.Console.WriteLine("Listar Codigo");
+
+            var Lista = reporsitorio.Lista();
+            if (Lista.Count == 0)       
+            {
+                System.Console.WriteLine("Nenhum Codigo encontrado");
+                return;
             }
 
-            
-        }   
+            foreach (var Codigo in Lista)
+            {
+                System.Console.WriteLine("#ID {0}: - {1}", Codigo.retornaID(), Codigo.retornaTitulo());
+            }
+        }
+
+
 
         private static string ObterOpcaoCliente()
         {
@@ -61,7 +80,7 @@ namespace APPDIO
             string ObterOpcaoCliente = Console.Readline().ToUpper();
             System.Console.WriteLine();
             return ObterOpcaoCliente;
-
+            
 
 
         }
