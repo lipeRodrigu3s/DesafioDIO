@@ -60,6 +60,36 @@ namespace APPDIO
             }
         }
 
+        private  static void InserirCodigo()
+        {
+            System.Console.WriteLine("Insira uma Novo Codigo");
+
+            foreach (int i in Enum.GetValues(typeof(Genero)))
+            {
+                System.Console.WriteLine("{0} - {1}", i, Enum.GetName(typeof(Genero), i));
+            }
+            System.Console.WriteLine("Digite qual tipo de codigo lhe agrada: ");
+            int entradaGenero = int.Parse(Console.Readline());
+
+            System.Console.WriteLine("Digite o Titulo do Codigo: ");
+            string entradaTitulo = Console.Readline();
+
+            System.Console.WriteLine("Digite a Data do codigo: ");
+            int entradaData = int.Parse(Console.Readline());
+
+            System.Console.WriteLine("Digite a Sinopse do Codigo: ");
+            string entradaSinopse = Console.Readline();
+            
+
+
+
+        }
+
+
+
+
+
+
 
 
         private static string ObterOpcaoCliente()
