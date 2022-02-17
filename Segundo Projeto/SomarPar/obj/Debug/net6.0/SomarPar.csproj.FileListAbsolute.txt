@@ -1,0 +1,15 @@
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\bin\Debug\net6.0\SomarPar.exe
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\bin\Debug\net6.0\SomarPar.deps.json
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\bin\Debug\net6.0\SomarPar.runtimeconfig.json
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\bin\Debug\net6.0\SomarPar.dll
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\bin\Debug\net6.0\ref\SomarPar.dll
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\bin\Debug\net6.0\SomarPar.pdb
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\obj\Debug\net6.0\SomarPar.csproj.AssemblyReference.cache
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\obj\Debug\net6.0\SomarPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\obj\Debug\net6.0\SomarPar.AssemblyInfoInputs.cache
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\obj\Debug\net6.0\SomarPar.AssemblyInfo.cs
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\obj\Debug\net6.0\SomarPar.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\obj\Debug\net6.0\SomarPar.dll
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\obj\Debug\net6.0\ref\SomarPar.dll
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\obj\Debug\net6.0\SomarPar.pdb
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Segundo Projeto\SomarPar\obj\Debug\net6.0\SomarPar.genruntimeconfig.cache
