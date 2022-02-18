@@ -1,0 +1,15 @@
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\bin\Debug\net6.0\Diretorios C#.exe
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\bin\Debug\net6.0\Diretorios C#.deps.json
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\bin\Debug\net6.0\Diretorios C#.runtimeconfig.json
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\bin\Debug\net6.0\Diretorios C#.dll
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\bin\Debug\net6.0\Diretorios C#.pdb
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\obj\Debug\net6.0\Diretorios C#.csproj.AssemblyReference.cache
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\obj\Debug\net6.0\Diretorios C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\obj\Debug\net6.0\Diretorios C#.AssemblyInfoInputs.cache
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\obj\Debug\net6.0\Diretorios C#.AssemblyInfo.cs
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\obj\Debug\net6.0\Diretorios C#.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\obj\Debug\net6.0\Diretorios C#.dll
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\obj\Debug\net6.0\refint\Diretorios C#.dll
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\obj\Debug\net6.0\Diretorios C#.pdb
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\obj\Debug\net6.0\Diretorios C#.genruntimeconfig.cache
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Diretorios C#\obj\Debug\net6.0\ref\Diretorios C#.dll

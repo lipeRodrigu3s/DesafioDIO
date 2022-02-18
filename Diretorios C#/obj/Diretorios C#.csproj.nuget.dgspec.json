@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Fellipe\\Documents\\Programção\\DesafioDIO\\Diretorios C#\\Diretorios C#.csproj": {}
+    "C:\\Users\\Fellipe\\Documents\\Programção\\DesafioDIO\\Diretorios C#\\Diretorios C#.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Fellipe\\Documents\\Programção\\DesafioDIO\\Diretorios C#\\Diretorios C#.csproj": {
+    "C:\\Users\\Fellipe\\Documents\\Programção\\DesafioDIO\\Diretorios C#\\Diretorios C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Fellipe\\Documents\\Programção\\DesafioDIO\\Diretorios C#\\Diretorios C#.csproj",
+        "projectUniqueName": "C:\\Users\\Fellipe\\Documents\\Programção\\DesafioDIO\\Diretorios C#\\Diretorios C#.csproj",
         "projectName": "Diretorios C#",
-        "projectPath": "c:\\Users\\Fellipe\\Documents\\Programção\\DesafioDIO\\Diretorios C#\\Diretorios C#.csproj",
+        "projectPath": "C:\\Users\\Fellipe\\Documents\\Programção\\DesafioDIO\\Diretorios C#\\Diretorios C#.csproj",
         "packagesPath": "C:\\Users\\Fellipe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Fellipe\\Documents\\Programção\\DesafioDIO\\Diretorios C#\\obj\\",
+        "outputPath": "C:\\Users\\Fellipe\\Documents\\Programção\\DesafioDIO\\Diretorios C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fellipe\\AppData\\Roaming\\NuGet\\NuGet.Config"

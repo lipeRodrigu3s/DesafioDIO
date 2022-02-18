@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Diretorios C#/1.0.0": {
+        "runtime": {
+          "Diretorios C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diretorios C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
