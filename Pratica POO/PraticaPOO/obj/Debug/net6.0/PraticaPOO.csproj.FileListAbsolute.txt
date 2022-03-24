@@ -1,0 +1,15 @@
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\bin\Debug\net6.0\PraticaPOO.exe
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\bin\Debug\net6.0\PraticaPOO.deps.json
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\bin\Debug\net6.0\PraticaPOO.runtimeconfig.json
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\bin\Debug\net6.0\PraticaPOO.dll
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\bin\Debug\net6.0\PraticaPOO.pdb
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\obj\Debug\net6.0\PraticaPOO.csproj.AssemblyReference.cache
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\obj\Debug\net6.0\PraticaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\obj\Debug\net6.0\PraticaPOO.AssemblyInfoInputs.cache
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\obj\Debug\net6.0\PraticaPOO.AssemblyInfo.cs
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\obj\Debug\net6.0\PraticaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\obj\Debug\net6.0\PraticaPOO.dll
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\obj\Debug\net6.0\refint\PraticaPOO.dll
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\obj\Debug\net6.0\PraticaPOO.pdb
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\obj\Debug\net6.0\PraticaPOO.genruntimeconfig.cache
+C:\Users\Fellipe\Documents\Programção\DesafioDIO\Pratica POO\PraticaPOO\obj\Debug\net6.0\ref\PraticaPOO.dll
